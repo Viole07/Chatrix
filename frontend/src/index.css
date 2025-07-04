@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+    themes: all
+}
+
+@font-face {
+  font-family: 'Cochocib';
+  src: url('/fonts/CochocibScriptLatinPro.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
